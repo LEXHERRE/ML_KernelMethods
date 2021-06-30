@@ -1,2 +1,2 @@
 # ML_KernelMethods
-Machine Learning: Kernel Methods course in Aalto University
+Kernel Methods in Machine Learning course in Aalto University
